@@ -1,9 +1,9 @@
-workspace = { members = ["easy_mode", "medium_mode", "base"] }
 [package]
-name = "leetcode-in-rust"
+name = "medium_mode"
 version = "0.1.0"
 edition = "2021"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
+base = {path = "../base"}
