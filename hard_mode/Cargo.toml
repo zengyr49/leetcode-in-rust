@@ -1,6 +1,5 @@
-workspace = { members = ["easy_mode", "medium_mode", "base", "hard_mode"] }
 [package]
-name = "leetcode-in-rust"
+name = "hard_mode"
 version = "0.1.0"
 edition = "2021"
 

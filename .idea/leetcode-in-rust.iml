@@ -6,6 +6,7 @@
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/base/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/medium_mode/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/hard_mode/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/easy_mode/target" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
     </content>
