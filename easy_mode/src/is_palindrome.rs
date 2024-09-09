@@ -4,6 +4,9 @@ pub fn is_palindrome(mut x:i32) -> bool{
     if x < 0 {
         return false;
     }
+    if x<10 {
+        return true;
+    }
     // ends with 0
     if x % 10 == 0 {
         return false;
